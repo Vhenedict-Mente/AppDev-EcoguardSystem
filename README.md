@@ -4,10 +4,10 @@
 By Providing real-time data and automated controls, Ecoguard ensures optimal conditions for poultry health and growth.**
 
 ## Members
-* Concevido, Kyle Howard P.
-* Dela Cruz, Charisse Valerie M.
-* Marquinez, Rinche C.
-* Mente, John Vhenedict B.
+* [Concevido, Kyle Howard P.](https://github.com/Howard2002)
+* [Dela Cruz, Charisse Valerie M.](https://github.com/CharisseValerie)
+* [Marquinez, Rinche C.](https://github.com/RincheMarquinez31)
+* [Mente, John Vhenedict B.](https://github.com/Vhenedict-Mente)
 ## Features
 * **Real-time Monitoring:** Track environmental conditions such as temperature, humidity, and air quality to ensure optimal living conditions for poultry.
 * **Health Monitoring:** Monitor the health status of poultry in real time to detect and address any health issues promptly.
@@ -24,3 +24,7 @@ Ensure you have the following installed:
 * Visual Studio
 * Any version of Android Emulator
 * Git
+
+## YouTube Link
+* Fimga UI design presentation: https://youtu.be/EqZqnbmbqhY?si=kLRrqA4mhoqnws4F
+
